@@ -2,7 +2,7 @@
 2. Download Python 3.7.9 (https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe)
 3. Clone this Repo 
 4. Create python virtual env inside repo 
-     -With PS/CMD cd into repo folder (cd C:\Users\...\ZED)
+    - With PS/CMD cd into repo folder (cd C:\Users\...\ZED)
     - "python -m venv ." (If multiple python version are installed make sure you are using python3.7.9 +64 version)
 5. Activate venv
     - With PS/CMD cd into repo folder (cd C:\Users\...\ZED)
