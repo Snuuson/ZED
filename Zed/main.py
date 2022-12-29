@@ -1,6 +1,5 @@
 import cv2
 import sys, signal
-import BodyTracking.cv_viewer.tracking_viewer as cv_viewer
 from CoordinatePipe import CoordinatePipe
 from DataExtractionWrapper import DataExtractionWrapper
 from SpoutFrameSender import SpoutFrameSender
